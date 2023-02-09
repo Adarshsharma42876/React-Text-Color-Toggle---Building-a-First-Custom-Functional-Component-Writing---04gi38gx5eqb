@@ -5,8 +5,8 @@ const App = () => {
 //code here 
   return (
     <div id="main">
-      <p className={} >Newton School</p>
-      <button id='button' onClick={}>Change Style</button>
+      <p className={redcolor} >Newton School</p>
+      <button id='button' onClick={bluecolor}>Change Style</button>
     </div>
   )
 }
